@@ -14,7 +14,7 @@ type DogAndCatUnion = Dog | Cat
 
 let dog:DogAndCatUnion = {
     name: "taffu",
-    barks: true
+   
 }
 let cat:DogAndCatUnion = {
     name: "tusi",
